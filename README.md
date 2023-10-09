@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suzuzora
 - 👀 I’m interested in aerospace, psychology and music
-- 🌱 I’m currently learning computer science @ uni
+- 🌱 I’m currently studying computer science @ uni
 - 💞️ I’m looking to collaborate on simple desktop applications
 - 📫 How to reach me: contact me on here I guess
 
